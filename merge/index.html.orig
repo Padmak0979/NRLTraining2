@@ -1,0 +1,10 @@
+<html>
+	<body>
+		This is the body of the html page
+<<<<<<< HEAD
+		Changes from b1
+=======
+		Changes from b2
+>>>>>>> b2
+	</body>
+<html>
